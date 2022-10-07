@@ -1,7 +1,7 @@
 # DesafioFase1-CorrigindoBugs 🚀
-Antes:
+## Antes:
 ![preview antes](./.github/previewantes.png)
-Depois:
+## Depois:
 ![preview depois](./.github/previewdepois.png)
 
 Nesse projeto não criei um novo link pois o resultado é o projeto 1, que pode ser acessado [aqui](https://victorm-mp.github.io/Projeto1-Stage2/)
